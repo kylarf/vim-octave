@@ -32,7 +32,7 @@ syntax iskeyword @,48-57,_,192-255
 
 " List of Octave keywords
 syn keyword octaveBeginKeyword  if switch for parfor while do function classdef
-syn keyword octaveBeginKeyword  try unwind_protect 
+syn keyword octaveBeginKeyword  try unwind_protect arguments
 
 syn keyword octaveElseKeyword   else elseif catch unwind_protect_cleanup
 
